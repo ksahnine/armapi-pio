@@ -4,7 +4,7 @@
     "description": "armapi API for ARM module (Sigfox/LoRaWan).",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ksahnine/armpi-pio.git"
+        "url": "https://github.com/ksahnine/armapi-pio.git"
     },
     "frameworks": "arduino",
     "platforms": "*"
